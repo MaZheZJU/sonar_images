@@ -1,0 +1,26 @@
+<annotation>
+	<folder>human1</folder>
+	<filename>000096.jpg</filename>
+	<path>C:\Users\zhang\Desktop\水下图像目标检测\human1\000096.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>394</width>
+		<height>476</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>186</ymin>
+			<xmax>206</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+</annotation>

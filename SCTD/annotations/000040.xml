@@ -1,0 +1,32 @@
+<annotation>
+	<folder>UAV_data</folder>
+	<filename>000040.jpg</filename>
+	<source>
+		<database>The UAV autolanding</database>
+		<annotation>UAV AutoLanding</annotation>
+		<image>flickr</image>
+		<flickrid>NULL</flickrid>
+	</source>
+	<owner>
+		<flickrid>NULL</flickrid>
+		<name>ChaojieZhu</name>
+	</owner>
+	<size>
+		<width>255</width>
+		<height>198</height>
+		<depth>3</depth>
+	</size>
+		<segmented>0</segmented>
+	<object>
+		<name>aircraft</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>19</ymin>
+			<xmax>196</xmax>
+			<ymax>137</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>000330.jpg</filename>
+	<path>E:\our_data\new\ship\000330.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>355</width>
+		<height>500</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>196</ymin>
+			<xmax>198</xmax>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+</annotation>
